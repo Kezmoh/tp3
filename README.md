@@ -1,2 +1,3 @@
 # tp3
-First Basic Recipe
+
+This is the README file for Tiny Project 3
